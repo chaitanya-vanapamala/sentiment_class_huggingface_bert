@@ -1,5 +1,7 @@
 # Sentiment Classification Using BERT
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chaitanya-vanapamala/sentiment_class_huggingface_bert/blob/main/Text_Classification_Hugging_Face_BERT.ipynb)
+
 In this project, I have done sentiment classification on [IMDB Movie Review Dataset](http://ai.stanford.edu/~amaas/data/sentiment/) using BERT & Hugging face.
 
 ## Data Visualization
