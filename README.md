@@ -47,6 +47,8 @@ The truncation makes sure the max length of text doesnt go beyond the max input 
 
 I have usign the DistilBertSequenceClassification model with pretrain weights from *distilbert-base-uncased*.
 
+>In order to reduce the time taken for training and memory utilisation I have used distil-bert instead of bert model.
+
 The Huggingface library provides us **Trainer** object, which can we used to train our model without the need of making a training loop ourselfs.
 
 ## Results
